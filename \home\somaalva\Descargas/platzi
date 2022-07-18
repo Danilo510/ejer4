@@ -1,0 +1,25 @@
+ViewGroups
+- Contendor invisible que define la estructura de diseño.
+     
+Views
+- Elemento que el usuario puede ver y con el que puede inetractuar
+   textView,ImageView,Button,EditText,CheckBOc,RedioBUtton
+
+-----------Atributos comunes------------
+ID, , Layout_width, layout_height
+
+-----------unidades de medida----------
+dp,sp
+
+
+
+-------------INTERFACES DE USUARIOS Y PERSONALIZACION----------------
+recursos
+---------Buenas practicas---------
+
+-Escribe todo en mainuscula
+-Sigue un formato de nombres
+-Separa todo por archivos
+
+---------Cracion de activity-----
+MVVM
